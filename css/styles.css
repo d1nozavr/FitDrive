@@ -23,10 +23,8 @@ body {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
   position: absolute;
   overflow: hidden;
-  /* width: 1536px; */
-  height: 85%;
   max-width: 100%;
-  min-height: 480px;
+  min-height: 95%;
   margin: 0 15px;
   padding: 0 15px;
 }
@@ -105,8 +103,8 @@ body {
   list-style-type: square;
 }
 
-.info ul li {
-  font-size: 22px;
+.info ol li {
+  font-size: 20px;
   padding: 15px;
 }
 
